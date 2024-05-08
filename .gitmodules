@@ -1,0 +1,3 @@
+[submodule "BuddyServices"]
+	path = BuddyServices
+	url = https://github.com/baptiste2k8/BuddyServices.git
